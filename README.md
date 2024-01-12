@@ -1,9 +1,11 @@
 # Space Invaders 👾
 ### Retrouvez notre rapport du projet sur le lien suivant : [Rapport du projet](/Rapport_Space_Invaders.pdf) 🗒️
 
-<video width="480" height="480" controls>
-  <source src="https://igadvisory.fr/opendata/space_invader_demo.mp4" type="video/mp4">
-</video>
+<center>
+  <video width="480" height="480" controls>
+    <source src="https://igadvisory.fr/opendata/space_invader_demo.mp4" type="video/mp4">
+  </video>
+</center>
 
 https://github-production-user-asset-6210df.s3.amazonaws.com/61350744/290198774-189dba3a-0c2e-40b4-9e5a-1175e16e28e9.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240112T123951Z&X-Amz-Expires=300&X-Amz-Signature=288e6c3fb0ec677042032a6ff3267d4e6a263a27738642bdf9dfd798b3bf1589&X-Amz-SignedHeaders=host&actor_id=61350744&key_id=0&repo_id=700560121
 
