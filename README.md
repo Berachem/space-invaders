@@ -36,6 +36,24 @@ de la programmation en C# tout en créant une expérience ludique pour
 les utilisateurs.
 
 ## Addons réalisés 🌟
+
+<table border="0">
+    <tr>
+        <td>
+          <img src="https://igadvisory.fr/opendata/spaceInvaders/2v2_game.png" />
+            _______________________________________________________________________
+        </td>
+        <td>
+            <img src="https://igadvisory.fr/opendata/spaceInvaders/final_boss.png"/>
+            _______________________________________________________________________
+        </td>
+        <td>
+            <img src="https://igadvisory.fr/opendata/spaceInvaders/highscore.png" />
+            _______________________________________________________________________
+        </td>
+    </tr>
+</table>
+
 - Multijoueur en local 🎮
   - Gestion des touches
 - Menus 📋
@@ -64,23 +82,6 @@ les utilisateurs.
 - Leaderboard de fin de partie (style Arcade) 🏆
   - Identification des parties
   - Stockage des scores dans un fichier
-
-<table border="0">
-    <tr>
-        <td>
-          <img src="https://igadvisory.fr/opendata/spaceInvaders/2v2_game.png" />
-            _______________________________________________________________________
-        </td>
-        <td>
-            <img src="https://igadvisory.fr/opendata/spaceInvaders/final_boss.png"/>
-            _______________________________________________________________________
-        </td>
-        <td>
-            <img src="https://igadvisory.fr/opendata/spaceInvaders/highscore.png" />
-            _______________________________________________________________________
-        </td>
-    </tr>
-</table>
 
 ## Structure du projet 
 ```
