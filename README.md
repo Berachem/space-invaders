@@ -131,5 +131,5 @@ les utilisateurs.
 ```
 ## 🕹️ Touches
 
-![image](https://github.com/ESIEECourses/projet-spaceinvaders2023-berachem-markria-joshua-lemoine/assets/61350744/b912d5c3-44a0-4c78-9ece-027aa748988f)
+<img src="https://igadvisory.fr/opendata/spaceInvaders/touches.png" />
 
