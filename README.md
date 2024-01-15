@@ -3,7 +3,7 @@
 
 <center>
   <video width="480" height="480" controls>
-    <source src="https://igadvisory.fr/opendata/space_invader_demo.mp4" type="video/mp4">
+    <source src="https://igadvisory.fr/opendata/spaceInvaders/space_invader_demo.mp4" type="video/mp4">
   </video>
 </center>
 
@@ -68,15 +68,15 @@ les utilisateurs.
 <table border="0">
     <tr>
         <td>
-          <img src="https://github.com/ESIEECourses/projet-spaceinvaders2023-berachem-markria-joshua-lemoine/assets/61350744/ff9bc2cf-90b6-4c74-bdf3-85f4550825a1" />
+          <img src="https://igadvisory.fr/opendata/spaceInvaders/2v2_game.png" />
             _______________________________________________________________________
         </td>
         <td>
-            <img src="https://github.com/ESIEECourses/projet-spaceinvaders2023-berachem-markria-joshua-lemoine/assets/61350744/0c52c914-0915-4ab4-9c07-c35e369f038b"/>
+            <img src="https://igadvisory.fr/opendata/spaceInvaders/final_boss.png"/>
             _______________________________________________________________________
         </td>
         <td>
-            <img src="https://github.com/ESIEECourses/projet-spaceinvaders2023-berachem-markria-joshua-lemoine/assets/61350744/1fe2eb47-7b36-4dd6-8a6c-edea61c16fe6" />
+            <img src="https://igadvisory.fr/opendata/spaceInvaders/highscore.png" />
             _______________________________________________________________________
         </td>
     </tr>
