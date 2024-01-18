@@ -128,7 +128,7 @@ les utilisateurs.
 ├── Form1.resx
 ├── Game.cs
 ├── Program.cs
-└── SpaceInvaders.csproj
+└── SpaceInvaders.csproj.
 ```
 ## 🕹️ Touches
 
