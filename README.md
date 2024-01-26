@@ -55,7 +55,7 @@ les utilisateurs.
 </table>
 
 - Multijoueur en local 🎮
-  - Gestion des touches
+  - Gestion des touches 
 - Menus 📋
   - Gestion des events personnalisés par bouton
 - Décorations visuelles 🎨
